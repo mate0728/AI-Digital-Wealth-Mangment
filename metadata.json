@@ -1,0 +1,6 @@
+{
+  "name": "Aura Digital Wealth",
+  "description": "Interactive Avatar-based AI Digital Wealth Management and scalable portfolio advisory service.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
